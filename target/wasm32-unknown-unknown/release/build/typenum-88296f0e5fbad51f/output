@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/huuthang/Desktop/NFT/target/wasm32-unknown-unknown/release/build/typenum-88296f0e5fbad51f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/huuthang/Desktop/NFT/target/wasm32-unknown-unknown/release/build/typenum-88296f0e5fbad51f/out/op.rs
